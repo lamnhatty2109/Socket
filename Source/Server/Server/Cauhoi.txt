@@ -1,0 +1,20 @@
+2Thu do nuoc my la gi? - (1) New York - (2) Washington - (3) California - (4) Colorado
+1Thu do nuoc Viet Nam la gi? - (1) Ha Noi - (2) TP Ho Chi Minh - (3) Da Nang - (4) Hue
+1Thu tuong vuong quoc Anh ten la gi? - (1) Theresa May - (2) Jeremy Corbyn - (3) Nigel Farage - (4) Angela Merkel
+1Den nam 2019, C.Ronaldo da danh duoc bao nhieu qua bong vang? - (1) 5 - (2) 6 - (3) 3 - (4) 1
+3Chu Tich Nuoc Viet Nam ten gi? - (1) Nguyen Tan Dung -  (2) Ho Chi Minh - (3) Nguyen Phu Trong - (4) Tran Dai Quang
+4Thu do nuoc Viet Nam la gi? - (1) Hue - (2) TP Ho Chi Minh - (3) Da Nang - (4) Ha Noi
+2Cac vua Hung dat quoc hieu nuoc ta la gi? - (1) Van Xuan - (2) Van Lang - (3) Da Nang - (4) Viet Nam
+3Ten that cua Bac Ho la gi? - (1) Nguyen Tat Thanh -  (2) Ho Chi Minh - (3) Nguyen Sinh Cung - (4) Van Ba
+1Quoc gia nao dong dan nhat the gioi? - (1) Trung Quoc -  (2) Viet Nam -  (3) Nga - (4) My
+4Quoc gia nao co dien tich nhat the gioi? - (1) My -  (2) Viet Nam -  (3) Phap - (4) Nga
+1Viet Nam dung dau the gioi ve nganh xuat khau gi? - (1) Lua Gao - (2) Ca Phe - (3) Trai Cay - (4) My Pham
+2Tu nao la xin chao trong tieng Nhat - (1) Hello -  (2) konnichiwa -  (3) anyonhaseo - (4) Bonju
+4Bac Ho ra di tim duong cuu nuoc vao nam nao? - (1) 2023 - (2) 1921 - (3) 1975 - (4) 1911
+1Ngay quoc te nguoi cao tuoi la ngay nao? - (1) 1/10 - (2) 3/2 - (3) 6/2  - (4) 30/4
+2Tu nao khong cung loai voi cac tu con lai? - (1) Con Trai - (2) Con Meo - (3) Con Gai - (4) Trai Cay
+1Dau la mot ca si den tu Viet Nam? - (1) Chi Pu - (2) Lisa - (3) Justin Bieber - (4) Alexis Sanchez
+3Dau la 1 ca khuc Han Quoc so huu luot views nhieu nhat youtube? - (1) Fake Love - (2) Kill this love - (3) GangNam Style - (4) Noi Nay Co Anh
+1Lan gan nhat bong da Viet Nam vo dich AFF CUP? - (1) 2018 - (2) 2008 - (3) 2000 - (4) 1998
+2Bong da viet nam da vo dich AFF CUP bao nhieu lan? - (1) 1 - (2) 2 - (3) 3 - (4) 0
+3Dau la mot ngon ngu lap trinh cap cao? - (1) Php - (2) Cplus - (3) Csharp - (4) English
